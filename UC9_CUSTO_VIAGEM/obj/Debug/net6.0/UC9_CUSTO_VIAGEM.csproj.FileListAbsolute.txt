@@ -1,0 +1,15 @@
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\bin\Debug\net6.0\UC9_CUSTO_VIAGEM.exe
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\bin\Debug\net6.0\UC9_CUSTO_VIAGEM.deps.json
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\bin\Debug\net6.0\UC9_CUSTO_VIAGEM.runtimeconfig.json
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\bin\Debug\net6.0\UC9_CUSTO_VIAGEM.dll
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\bin\Debug\net6.0\ref\UC9_CUSTO_VIAGEM.dll
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\bin\Debug\net6.0\UC9_CUSTO_VIAGEM.pdb
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\UC9_CUSTO_VIAGEM.csproj.AssemblyReference.cache
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\UC9_CUSTO_VIAGEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\UC9_CUSTO_VIAGEM.AssemblyInfoInputs.cache
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\UC9_CUSTO_VIAGEM.AssemblyInfo.cs
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\UC9_CUSTO_VIAGEM.csproj.CoreCompileInputs.cache
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\UC9_CUSTO_VIAGEM.dll
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\ref\UC9_CUSTO_VIAGEM.dll
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\UC9_CUSTO_VIAGEM.pdb
+C:\Users\fabricio.ascamargo\source\repos\UC9_CUSTO_VIAGEM\UC9_CUSTO_VIAGEM\obj\Debug\net6.0\UC9_CUSTO_VIAGEM.genruntimeconfig.cache
